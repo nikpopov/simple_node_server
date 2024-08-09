@@ -1,5 +1,6 @@
 body {
   background-color: aqua;
+  padding: 0 20px;
 }
 
 ul {
@@ -24,4 +25,14 @@ li a {
 
 li a:hover {
   background-color: #111;
+}
+img {
+  float: left;
+  margin-right: 25px;
+}
+h2 {
+  text-align: center;
+}
+p {
+  text-indent: 5%;
 }
